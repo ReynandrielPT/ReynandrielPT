@@ -6,9 +6,9 @@ I'm a student of Informatics at the Sepuluh Nopember Institute of Technology (IT
 
 ### 👨‍💻 About Me
 
-- 🎓 I'm currently a student of Informatics at Institut Teknologi Sepuluh Nopember, class of 2023.
-- 🔭 I’m currently working on a project called VIKA AI.
-- 🌱 I’m currently learning more about web development and artificial intelligence.
+- 🎓 I'm currently a student of Informatics at Institut Teknologi Sepuluh Nopember, joined at 2023.
+- 🔭 I’m currently working as Research Assitant on NCC Lab at ITS.
+- 🌱 I’m currently focusing on cybersecurity, but I have a bunch of experiences on game dev, web development, artifical intelligence, and mobile programming.
 - 👯 I’m looking to collaborate on open-source projects.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/reynandriel-pramas-thandya-94b936255)
 
@@ -18,7 +18,7 @@ I'm a student of Informatics at the Sepuluh Nopember Institute of Technology (IT
 
 Here are some of the technologies I've been working with recently:
 
-- **Languages:** TypeScript, Shell, HTML
+- **Languages:** TypeScript, Shell, C, Python
 - **Frameworks:** Node.js
 - **Databases:** PostGreSQL, MySQL
 
