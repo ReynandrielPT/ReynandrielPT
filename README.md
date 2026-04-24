@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Reynandriel
+# Hi there 👋, I'm Rey
 
 I'm a student of Informatics at the Sepuluh Nopember Institute of Technology (ITS) and a developer at VIKA AI. I'm passionate about web development and always eager to learn new technologies.
 
