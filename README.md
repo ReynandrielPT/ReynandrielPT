@@ -1,6 +1,7 @@
 <div align="center">
   
-  # 🚀 Hello, World! I'm Reynandriel Pramas Thandya (Rey)
+  # 🚀 Hello, World! I'm Reynandriel Pramas Thandya
+  ## aka Rey or RGX26
   
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Informatics+Undergrad+%40+ITS;Research+Assistant+at+NCC+Lab+ITS;Developer+%40+Petanesia;Developer+%40+Docuslide;Developer+%40+VIKA+AI;Cybersecurity+Enthusiast;Web+Developer" alt="Typing SVG" /></a>
 
